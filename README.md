@@ -3,8 +3,8 @@ Este projeto foi desenvolvido aplicando meus conhecimentos em Java e foi uma exc
 
 Principais funcionalidades:
  - Multilíngue: escolha entre Português 🇧🇷 ou Inglês 🇺🇸 logo ao iniciar o jogo.
- - Dois modos de jogo:  Singleplayer: jogue contra uma IA básica.
-                        Multiplayer local: desafie um amigo no mesmo computador.
+ - Singleplayer: jogue contra uma IA básica.
+ - Multiplayer local: desafie um amigo no mesmo computador.
  - Detecção automática de vitória, derrota ou empate.
  - Interface gráfica leve e responsiva com Swing.
  - Estrutura modularizada: classes organizadas em pacotes (controller, view, languages, launcher, sound).
@@ -13,3 +13,5 @@ Futuras melhorias:
  - IA mais estratégica.
  - Sistema de trilha sonora e efeitos sonoros.
  - Temas visuais customizáveis.
+ - Inclusão de um novo idioma (Espanhol)
+ - Código 100% comentado
